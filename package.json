@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "antd": "^5.16.2",
+    "nanoid": "^5.0.7",
     "umi": "^4.1.10"
   },
   "devDependencies": {

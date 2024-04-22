@@ -1,0 +1,9 @@
+.web-mark-word {
+  border-bottom: 2px solid rgba(154, 205, 50, 0.8);
+  /* background-color: rgba(154, 205, 50, 0.1); */
+  cursor: pointer;
+}
+
+.web-mark-word.web-mark-highlight {
+  background-color: rgba(154, 205, 50, 0.26);
+}

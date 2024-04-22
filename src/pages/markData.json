@@ -1,0 +1,72 @@
+[
+  {
+    "startOffset": 276,
+    "endOffset": 282,
+    "selectContent": "多了个换行符",
+    "webmarkId": "tab1-DocSection",
+    "webmarkMid": "m1"
+  },
+  {
+    "startOffset": 266,
+    "endOffset": 272,
+    "selectContent": "，或者选择的",
+    "webmarkId": "tab1-DocSection",
+    "webmarkMid": "m2"
+  },
+  {
+    "startOffset": 191,
+    "endOffset": 199,
+    "selectContent": "了双击文字的时候",
+    "webmarkId": "tab1-DocSection",
+    "webmarkMid": "m3"
+  },
+  {
+    "startOffset": 180,
+    "endOffset": 188,
+    "selectContent": "个项目开发而言，",
+    "webmarkId": "tab1-DocSection",
+    "webmarkMid": "m4"
+  },
+  {
+    "startOffset": 80,
+    "endOffset": 84,
+    "selectContent": "一天，各",
+    "webmarkId": "tab1-DocSection",
+    "webmarkMid": "m5"
+  },
+  {
+    "startOffset": 9,
+    "endOffset": 15,
+    "selectContent": "ome to",
+    "webmarkId": "tab1-HelloUmi",
+    "webmarkMid": "m6"
+  },
+  {
+    "startOffset": 350,
+    "endOffset": 352,
+    "selectContent": "湖底",
+    "webmarkId": "tab1-DocSection",
+    "webmarkMid": "m7"
+  },
+  {
+    "startOffset": 364,
+    "endOffset": 366,
+    "selectContent": "湖底",
+    "webmarkId": "tab1-DocSection",
+    "webmarkMid": "m8"
+  },
+  {
+    "startOffset": 1706,
+    "endOffset": 1714,
+    "selectContent": "发者喜欢的学习方",
+    "webmarkId": "tab1-DocSection",
+    "webmarkMid": "m9"
+  },
+  {
+    "startOffset": 40,
+    "endOffset": 56,
+    "selectContent": "而已，所以，需求实现的难点就在于",
+    "webmarkId": "tab1-DocSection",
+    "webmarkMid": "m10"
+  }
+]
